@@ -31,7 +31,6 @@ namespace Novel_Read
         {
             this.panel1 = new System.Windows.Forms.Panel();
             this.lab_title = new System.Windows.Forms.Label();
-            this.btn_backToHome = new System.Windows.Forms.Button();
             this.btn_index = new System.Windows.Forms.Button();
             this.btn_back = new System.Windows.Forms.Button();
             this.txt_Novel = new System.Windows.Forms.TextBox();
@@ -48,7 +47,6 @@ namespace Novel_Read
             this.panel1.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.panel1.Controls.Add(this.lab_title);
-            this.panel1.Controls.Add(this.btn_backToHome);
             this.panel1.Controls.Add(this.btn_index);
             this.panel1.Controls.Add(this.btn_back);
             this.panel1.Location = new System.Drawing.Point(3, 10);
@@ -68,20 +66,9 @@ namespace Novel_Read
             this.lab_title.Text = "title";
             this.lab_title.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
-            // btn_backToHome
-            // 
-            this.btn_backToHome.Location = new System.Drawing.Point(868, 7);
-            this.btn_backToHome.Margin = new System.Windows.Forms.Padding(2);
-            this.btn_backToHome.Name = "btn_backToHome";
-            this.btn_backToHome.Size = new System.Drawing.Size(91, 24);
-            this.btn_backToHome.TabIndex = 2;
-            this.btn_backToHome.Text = "返回";
-            this.btn_backToHome.UseVisualStyleBackColor = true;
-            this.btn_backToHome.Click += new System.EventHandler(this.btn_backToHome_Click);
-            // 
             // btn_index
             // 
-            this.btn_index.Location = new System.Drawing.Point(766, 7);
+            this.btn_index.Location = new System.Drawing.Point(873, 7);
             this.btn_index.Margin = new System.Windows.Forms.Padding(2);
             this.btn_index.Name = "btn_index";
             this.btn_index.Size = new System.Drawing.Size(88, 24);
@@ -92,7 +79,7 @@ namespace Novel_Read
             // 
             // btn_back
             // 
-            this.btn_back.Location = new System.Drawing.Point(665, 7);
+            this.btn_back.Location = new System.Drawing.Point(770, 7);
             this.btn_back.Margin = new System.Windows.Forms.Padding(2);
             this.btn_back.Name = "btn_back";
             this.btn_back.Size = new System.Drawing.Size(84, 24);
@@ -201,7 +188,6 @@ namespace Novel_Read
         private System.Windows.Forms.LinkLabel link_branch2;
         private System.Windows.Forms.LinkLabel link_branch3;
         private System.Windows.Forms.Button btn_change;
-        private System.Windows.Forms.Button btn_backToHome;
         private System.Windows.Forms.Button btn_adBranch;
         private System.Windows.Forms.Label lab_title;
     }

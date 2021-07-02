@@ -726,28 +726,28 @@ namespace Novel_Read
                 switch (list.Count % 4)
                 {
                     case 1:
-                        linkLabel1.Text = list[(list.Count / 4) * 4].Title;
-                        linkLabel2.Text = "";
-                        linkLabel3.Text = "";
-                        linkLabel4.Text = "";
+                        linkLabel5.Text = list[(list.Count / 4) * 4].Title;
+                        linkLabel6.Text = "";
+                        linkLabel7.Text = "";
+                        linkLabel8.Text = "";
                         break;
                     case 2:
-                        linkLabel1.Text = list[(list.Count / 4) * 4].Title;
-                        linkLabel2.Text = list[(list.Count / 4) * 4 + 1].Title;
-                        linkLabel3.Text = "";
-                        linkLabel4.Text = "";
+                        linkLabel5.Text = list[(list.Count / 4) * 4].Title;
+                        linkLabel6.Text = list[(list.Count / 4) * 4 + 1].Title;
+                        linkLabel7.Text = "";
+                        linkLabel8.Text = "";
                         break;
                     case 3:
-                        linkLabel1.Text = list[(list.Count / 4) * 4].Title;
-                        linkLabel2.Text = list[(list.Count / 4) * 4 + 1].Title;
-                        linkLabel3.Text = list[(list.Count / 4) * 4 + 2].Title;
-                        linkLabel4.Text = "";
+                        linkLabel5.Text = list[(list.Count / 4) * 4].Title;
+                        linkLabel6.Text = list[(list.Count / 4) * 4 + 1].Title;
+                        linkLabel7.Text = list[(list.Count / 4) * 4 + 2].Title;
+                        linkLabel8.Text = "";
                         break;
                     default:
-                        linkLabel1.Text = list[(list.Count / 5) * 4].Title;
-                        linkLabel2.Text = list[(list.Count / 5) * 4 + 1].Title;
-                        linkLabel3.Text = list[(list.Count / 5) * 4 + 2].Title;
-                        linkLabel4.Text = list[(list.Count / 5) * 4 + 3].Title;
+                        linkLabel5.Text = list[(list.Count / 5) * 4].Title;
+                        linkLabel6.Text = list[(list.Count / 5) * 4 + 1].Title;
+                        linkLabel7.Text = list[(list.Count / 5) * 4 + 2].Title;
+                        linkLabel8.Text = list[(list.Count / 5) * 4 + 3].Title;
                         break;
 
                 }
@@ -758,28 +758,28 @@ namespace Novel_Read
                 switch (list.Count % 4)
                 {
                     case 1:
-                        linkLabel1.Text = list[(list.Count / 4) * 4].Title;
-                        linkLabel2.Text = "";
-                        linkLabel3.Text = "";
-                        linkLabel4.Text = "";
+                        linkLabel9.Text = list[(list.Count / 4) * 4].Title;
+                        linkLabel10.Text = "";
+                        linkLabel11.Text = "";
+                        linkLabel12.Text = "";
                         break;
                     case 2:
-                        linkLabel1.Text = list[(list.Count / 4) * 4].Title;
-                        linkLabel2.Text = list[(list.Count / 4) * 4 + 1].Title;
-                        linkLabel3.Text = "";
-                        linkLabel4.Text = "";
+                        linkLabel9.Text = list[(list.Count / 4) * 4].Title;
+                        linkLabel10.Text = list[(list.Count / 4) * 4 + 1].Title;
+                        linkLabel11.Text = "";
+                        linkLabel12.Text = "";
                         break;
                     case 3:
-                        linkLabel1.Text = list[(list.Count / 4) * 4].Title;
-                        linkLabel2.Text = list[(list.Count / 4) * 4 + 1].Title;
-                        linkLabel3.Text = list[(list.Count / 4) * 4 + 2].Title;
-                        linkLabel4.Text = "";
+                        linkLabel9.Text = list[(list.Count / 4) * 4].Title;
+                        linkLabel10.Text = list[(list.Count / 4) * 4 + 1].Title;
+                        linkLabel11.Text = list[(list.Count / 4) * 4 + 2].Title;
+                        linkLabel12.Text = "";
                         break;
                     default:
-                        linkLabel1.Text = list[(list.Count / 5) * 4].Title;
-                        linkLabel2.Text = list[(list.Count / 5) * 4 + 1].Title;
-                        linkLabel3.Text = list[(list.Count / 5) * 4 + 2].Title;
-                        linkLabel4.Text = list[(list.Count / 5) * 4 + 3].Title;
+                        linkLabel9.Text = list[(list.Count / 5) * 4].Title;
+                        linkLabel10.Text = list[(list.Count / 5) * 4 + 1].Title;
+                        linkLabel11.Text = list[(list.Count / 5) * 4 + 2].Title;
+                        linkLabel12.Text = list[(list.Count / 5) * 4 + 3].Title;
                         break;
 
                 }
@@ -790,28 +790,28 @@ namespace Novel_Read
                 switch (list.Count % 4)
                 {
                     case 1:
-                        linkLabel1.Text = list[(list.Count / 4) * 4].Title;
-                        linkLabel2.Text = "";
-                        linkLabel3.Text = "";
-                        linkLabel4.Text = "";
+                        linkLabel13.Text = list[(list.Count / 4) * 4].Title;
+                        linkLabel14.Text = "";
+                        linkLabel15.Text = "";
+                        linkLabel16.Text = "";
                         break;
                     case 2:
-                        linkLabel1.Text = list[(list.Count / 4) * 4].Title;
-                        linkLabel2.Text = list[(list.Count / 4) * 4 + 1].Title;
-                        linkLabel3.Text = "";
-                        linkLabel4.Text = "";
+                        linkLabel13.Text = list[(list.Count / 4) * 4].Title;
+                        linkLabel14.Text = list[(list.Count / 4) * 4 + 1].Title;
+                        linkLabel15.Text = "";
+                        linkLabel16.Text = "";
                         break;
                     case 3:
-                        linkLabel1.Text = list[(list.Count / 4) * 4].Title;
-                        linkLabel2.Text = list[(list.Count / 4) * 4 + 1].Title;
-                        linkLabel3.Text = list[(list.Count / 4) * 4 + 2].Title;
-                        linkLabel4.Text = "";
+                        linkLabel13.Text = list[(list.Count / 4) * 4].Title;
+                        linkLabel14.Text = list[(list.Count / 4) * 4 + 1].Title;
+                        linkLabel15.Text = list[(list.Count / 4) * 4 + 2].Title;
+                        linkLabel16.Text = "";
                         break;
                     default:
-                        linkLabel1.Text = list[(list.Count / 5) * 4].Title;
-                        linkLabel2.Text = list[(list.Count / 5) * 4 + 1].Title;
-                        linkLabel3.Text = list[(list.Count / 5) * 4 + 2].Title;
-                        linkLabel4.Text = list[(list.Count / 5) * 4 + 3].Title;
+                        linkLabel13.Text = list[(list.Count / 5) * 4].Title;
+                        linkLabel14.Text = list[(list.Count / 5) * 4 + 1].Title;
+                        linkLabel15.Text = list[(list.Count / 5) * 4 + 2].Title;
+                        linkLabel16.Text = list[(list.Count / 5) * 4 + 3].Title;
                         break;
 
                 }
@@ -822,28 +822,28 @@ namespace Novel_Read
                 switch (list.Count % 4)
                 {
                     case 1:
-                        linkLabel1.Text = list[(list.Count / 4) * 4].Title;
-                        linkLabel2.Text = "";
-                        linkLabel3.Text = "";
-                        linkLabel4.Text = "";
+                        linkLabel17.Text = list[(list.Count / 4) * 4].Title;
+                        linkLabel18.Text = "";
+                        linkLabel19.Text = "";
+                        linkLabel20.Text = "";
                         break;
                     case 2:
-                        linkLabel1.Text = list[(list.Count / 4) * 4].Title;
-                        linkLabel2.Text = list[(list.Count / 4) * 4 + 1].Title;
-                        linkLabel3.Text = "";
-                        linkLabel4.Text = "";
+                        linkLabel17.Text = list[(list.Count / 4) * 4].Title;
+                        linkLabel18.Text = list[(list.Count / 4) * 4 + 1].Title;
+                        linkLabel19.Text = "";
+                        linkLabel20.Text = "";
                         break;
                     case 3:
-                        linkLabel1.Text = list[(list.Count / 4) * 4].Title;
-                        linkLabel2.Text = list[(list.Count / 4) * 4 + 1].Title;
-                        linkLabel3.Text = list[(list.Count / 4) * 4 + 2].Title;
-                        linkLabel4.Text = "";
+                        linkLabel17.Text = list[(list.Count / 4) * 4].Title;
+                        linkLabel18.Text = list[(list.Count / 4) * 4 + 1].Title;
+                        linkLabel19.Text = list[(list.Count / 4) * 4 + 2].Title;
+                        linkLabel20.Text = "";
                         break;
                     default:
-                        linkLabel1.Text = list[(list.Count / 5) * 4].Title;
-                        linkLabel2.Text = list[(list.Count / 5) * 4 + 1].Title;
-                        linkLabel3.Text = list[(list.Count / 5) * 4 + 2].Title;
-                        linkLabel4.Text = list[(list.Count / 5) * 4 + 3].Title;
+                        linkLabel17.Text = list[(list.Count / 5) * 4].Title;
+                        linkLabel18.Text = list[(list.Count / 5) * 4 + 1].Title;
+                        linkLabel19.Text = list[(list.Count / 5) * 4 + 2].Title;
+                        linkLabel20.Text = list[(list.Count / 5) * 4 + 3].Title;
                         break;
 
                 }
@@ -854,28 +854,28 @@ namespace Novel_Read
                 switch (list.Count % 4)
                 {
                     case 1:
-                        linkLabel1.Text = list[(list.Count / 4) * 4].Title;
-                        linkLabel2.Text = "";
-                        linkLabel3.Text = "";
-                        linkLabel4.Text = "";
+                        linkLabel21.Text = list[(list.Count / 4) * 4].Title;
+                        linkLabel22.Text = "";
+                        linkLabel23.Text = "";
+                        linkLabel24.Text = "";
                         break;
                     case 2:
-                        linkLabel1.Text = list[(list.Count / 4) * 4].Title;
-                        linkLabel2.Text = list[(list.Count / 4) * 4 + 1].Title;
-                        linkLabel3.Text = "";
-                        linkLabel4.Text = "";
+                        linkLabel21.Text = list[(list.Count / 4) * 4].Title;
+                        linkLabel22.Text = list[(list.Count / 4) * 4 + 1].Title;
+                        linkLabel23.Text = "";
+                        linkLabel24.Text = "";
                         break;
                     case 3:
-                        linkLabel1.Text = list[(list.Count / 4) * 4].Title;
-                        linkLabel2.Text = list[(list.Count / 4) * 4 + 1].Title;
-                        linkLabel3.Text = list[(list.Count / 4) * 4 + 2].Title;
-                        linkLabel4.Text = "";
+                        linkLabel21.Text = list[(list.Count / 4) * 4].Title;
+                        linkLabel22.Text = list[(list.Count / 4) * 4 + 1].Title;
+                        linkLabel23.Text = list[(list.Count / 4) * 4 + 2].Title;
+                        linkLabel24.Text = "";
                         break;
                     default:
-                        linkLabel1.Text = list[(list.Count / 5) * 4].Title;
-                        linkLabel2.Text = list[(list.Count / 5) * 4 + 1].Title;
-                        linkLabel3.Text = list[(list.Count / 5) * 4 + 2].Title;
-                        linkLabel4.Text = list[(list.Count / 5) * 4 + 3].Title;
+                        linkLabel21.Text = list[(list.Count / 5) * 4].Title;
+                        linkLabel22.Text = list[(list.Count / 5) * 4 + 1].Title;
+                        linkLabel23.Text = list[(list.Count / 5) * 4 + 2].Title;
+                        linkLabel24.Text = list[(list.Count / 5) * 4 + 3].Title;
                         break;
 
                 }
@@ -886,28 +886,28 @@ namespace Novel_Read
                 switch (list.Count % 4)
                 {
                     case 1:
-                        linkLabel1.Text = list[(list.Count / 4) * 4].Title;
-                        linkLabel2.Text = "";
-                        linkLabel3.Text = "";
-                        linkLabel4.Text = "";
+                        linkLabel25.Text = list[(list.Count / 4) * 4].Title;
+                        linkLabel26.Text = "";
+                        linkLabel27.Text = "";
+                        linkLabel28.Text = "";
                         break;
                     case 2:
-                        linkLabel1.Text = list[(list.Count / 4) * 4].Title;
-                        linkLabel2.Text = list[(list.Count / 4) * 4 + 1].Title;
-                        linkLabel3.Text = "";
-                        linkLabel4.Text = "";
+                        linkLabel25.Text = list[(list.Count / 4) * 4].Title;
+                        linkLabel26.Text = list[(list.Count / 4) * 4 + 1].Title;
+                        linkLabel27.Text = "";
+                        linkLabel28.Text = "";
                         break;
                     case 3:
-                        linkLabel1.Text = list[(list.Count / 4) * 4].Title;
-                        linkLabel2.Text = list[(list.Count / 4) * 4 + 1].Title;
-                        linkLabel3.Text = list[(list.Count / 4) * 4 + 2].Title;
-                        linkLabel4.Text = "";
+                        linkLabel25.Text = list[(list.Count / 4) * 4].Title;
+                        linkLabel26.Text = list[(list.Count / 4) * 4 + 1].Title;
+                        linkLabel27.Text = list[(list.Count / 4) * 4 + 2].Title;
+                        linkLabel28.Text = "";
                         break;
                     default:
-                        linkLabel1.Text = list[(list.Count / 5) * 4].Title;
-                        linkLabel2.Text = list[(list.Count / 5) * 4 + 1].Title;
-                        linkLabel3.Text = list[(list.Count / 5) * 4 + 2].Title;
-                        linkLabel4.Text = list[(list.Count / 5) * 4 + 3].Title;
+                        linkLabel25.Text = list[(list.Count / 5) * 4].Title;
+                        linkLabel26.Text = list[(list.Count / 5) * 4 + 1].Title;
+                        linkLabel27.Text = list[(list.Count / 5) * 4 + 2].Title;
+                        linkLabel28.Text = list[(list.Count / 5) * 4 + 3].Title;
                         break;
 
                 }
@@ -918,28 +918,28 @@ namespace Novel_Read
                 switch (list.Count % 4)
                 {
                     case 1:
-                        linkLabel1.Text = list[(list.Count / 4) * 4].Title;
-                        linkLabel2.Text = "";
-                        linkLabel3.Text = "";
-                        linkLabel4.Text = "";
+                        linkLabel29.Text = list[(list.Count / 4) * 4].Title;
+                        linkLabel30.Text = "";
+                        linkLabel31.Text = "";
+                        linkLabel32.Text = "";
                         break;
                     case 2:
-                        linkLabel1.Text = list[(list.Count / 4) * 4].Title;
-                        linkLabel2.Text = list[(list.Count / 4) * 4 + 1].Title;
-                        linkLabel3.Text = "";
-                        linkLabel4.Text = "";
+                        linkLabel29.Text = list[(list.Count / 4) * 4].Title;
+                        linkLabel30.Text = list[(list.Count / 4) * 4 + 1].Title;
+                        linkLabel31.Text = "";
+                        linkLabel32.Text = "";
                         break;
                     case 3:
-                        linkLabel1.Text = list[(list.Count / 4) * 4].Title;
-                        linkLabel2.Text = list[(list.Count / 4) * 4 + 1].Title;
-                        linkLabel3.Text = list[(list.Count / 4) * 4 + 2].Title;
-                        linkLabel4.Text = "";
+                        linkLabel29.Text = list[(list.Count / 4) * 4].Title;
+                        linkLabel30.Text = list[(list.Count / 4) * 4 + 1].Title;
+                        linkLabel31.Text = list[(list.Count / 4) * 4 + 2].Title;
+                        linkLabel32.Text = "";
                         break;
                     default:
-                        linkLabel1.Text = list[(list.Count / 5) * 4].Title;
-                        linkLabel2.Text = list[(list.Count / 5) * 4 + 1].Title;
-                        linkLabel3.Text = list[(list.Count / 5) * 4 + 2].Title;
-                        linkLabel4.Text = list[(list.Count / 5) * 4 + 3].Title;
+                        linkLabel29.Text = list[(list.Count / 5) * 4].Title;
+                        linkLabel30.Text = list[(list.Count / 5) * 4 + 1].Title;
+                        linkLabel31.Text = list[(list.Count / 5) * 4 + 2].Title;
+                        linkLabel32.Text = list[(list.Count / 5) * 4 + 3].Title;
                         break;
 
                 }

@@ -26,26 +26,47 @@ namespace Novel_Read
             label2.Text = book.PublishTime.ToString();
             label5.Text = book.Readers.ToString();
             richTextBox1.Text = book.Discription;
+            User user = Webservice.getUserById(userId);
+            bool flag = true ;
+            foreach(string bookTitle in user.FavorList)
+            {
+                if(bookTitle == book.Title)
+                {
+                    flag = false;
+                    button2.Text = "取消收藏";
+                    break;
+                }
+            }
+            if (flag)
+            {
+                button2.Text = "收藏";
+            }
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
             User user = Webservice.getUserById(UserId);
             Book book = Webservice.getBookById(BookId);
-            foreach (string tbook in user.FavorList)
+            if(button2.Text == "收藏")
             {
-                if(tbook == book.Title)
-                {
-                    MessageBox.Show("已收藏过本小说！", "收藏提示", MessageBoxButtons.OKCancel, MessageBoxIcon.Exclamation);
-                    return;
-                }
+                button2.Text = "取消收藏";
+                user.FavorList.Add(book.Title);
+                book.Readers++;
+                Webservice.editUser(UserId, user);
+                Webservice.editBook(BookId, book);
+                MessageBox.Show("收藏成功！", "收藏提示");
+                label5.Text = book.Readers.ToString();
             }
-            user.FavorList.Add(book.Title);
-            Webservice.editUser(UserId, user);
-            book.Readers++;
-            Webservice.editBook(BookId, book);
-            MessageBox.Show("收藏成功！", "收藏提示");
-            label5.Text = book.Readers.ToString();
+            else
+            {
+                button2.Text = "收藏";
+                user.FavorList.Remove(book.Title);
+                book.Readers--;
+                Webservice.editUser(UserId, user);
+                Webservice.editBook(BookId, book);
+                MessageBox.Show("取消收藏成功！", "收藏提示");
+                label5.Text = book.Readers.ToString();
+            }
         }
 
         private void button1_Click(object sender, EventArgs e)

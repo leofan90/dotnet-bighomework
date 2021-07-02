@@ -44,16 +44,16 @@ namespace Novel_Read
             else if (totalNext == 1)
             {
                 post1 = Webservice.getPostById(post.NextId[initNumber % totalNext]);
-                link_branch1.Text = post1.Title + "(" + post1.Readers + "分支)";
+                link_branch1.Text = post1.Title + "(" + post1.Readers + "阅读量)";
                 link_branch2.Text = "暂无分支";
                 link_branch3.Text = "暂无分支";
             }
             else if (totalNext == 2)
             {
                 post1 = Webservice.getPostById(post.NextId[initNumber % totalNext]);
-                link_branch1.Text = post1.Title + "(" + post1.Readers + "分支)";
+                link_branch1.Text = post1.Title + "(" + post1.Readers + "阅读量)";
                 post2 = Webservice.getPostById(post.NextId[(initNumber + 1) % totalNext]);
-                link_branch2.Text = post2.Title + "(" + post2.Readers + "分支)";
+                link_branch2.Text = post2.Title + "(" + post2.Readers + "阅读量)";
                 link_branch3.Text = "暂无分支";
             }
             else
@@ -61,9 +61,9 @@ namespace Novel_Read
                 post1 = Webservice.getPostById(post.NextId[initNumber % totalNext]);
                 post2 = Webservice.getPostById(post.NextId[(initNumber + 1) % totalNext]);
                 post3 = Webservice.getPostById(post.NextId[(initNumber + 2) % totalNext]);
-                link_branch1.Text = post1.Title + "(" + post1.Readers + "分支)";
-                link_branch2.Text = post2.Title + "(" + post2.Readers + "分支)";
-                link_branch3.Text = post3.Title + "(" + post3.Readers + "分支)";
+                link_branch1.Text = post1.Title + "(" + post1.Readers + "阅读量)";
+                link_branch2.Text = post2.Title + "(" + post2.Readers + "阅读量)";
+                link_branch3.Text = post3.Title + "(" + post3.Readers + "阅读量)";
             }
         }
 
@@ -74,8 +74,7 @@ namespace Novel_Read
 
         private void btn_back_Click(object sender, EventArgs e)
         {
-            Post lastpost = Webservice.getPostById(post.LastId);
-            if (lastpost == null)
+            if (post.LastId == null)
             {
                 MessageBox.Show("无法再上一页", "错误提示", MessageBoxButtons.OKCancel, MessageBoxIcon.Exclamation);
                 return;
@@ -97,16 +96,16 @@ namespace Novel_Read
             else if (totalNext == 1)
             {
                 post1 = Webservice.getPostById(post.NextId[initNumber % totalNext]);
-                link_branch1.Text = post1.Title + "(" + post1.Readers + "分支)";
+                link_branch1.Text = post1.Title + "(" + post1.Readers + "阅读量)";
                 link_branch2.Text = "暂无分支";
                 link_branch3.Text = "暂无分支";
             }
             else if (totalNext == 2)
             {
                 post1 = Webservice.getPostById(post.NextId[initNumber % totalNext]);
-                link_branch1.Text = post1.Title + "(" + post1.Readers + "分支)";
+                link_branch1.Text = post1.Title + "(" + post1.Readers + "阅读量)";
                 post2 = Webservice.getPostById(post.NextId[(initNumber + 1) % totalNext]);
-                link_branch2.Text = post2.Title + "(" + post2.Readers + "分支)";
+                link_branch2.Text = post2.Title + "(" + post2.Readers + "阅读量)";
                 link_branch3.Text = "暂无分支";
             }
             else
@@ -114,9 +113,9 @@ namespace Novel_Read
                 post1 = Webservice.getPostById(post.NextId[initNumber % totalNext]);
                 post2 = Webservice.getPostById(post.NextId[(initNumber + 1) % totalNext]);
                 post3 = Webservice.getPostById(post.NextId[(initNumber + 2) % totalNext]);
-                link_branch1.Text = post1.Title + "(" + post1.Readers + "分支)";
-                link_branch2.Text = post2.Title + "(" + post2.Readers + "分支)";
-                link_branch3.Text = post3.Title + "(" + post3.Readers + "分支)";
+                link_branch1.Text = post1.Title + "(" + post1.Readers + "阅读量)";
+                link_branch2.Text = post2.Title + "(" + post2.Readers + "阅读量)";
+                link_branch3.Text = post3.Title + "(" + post3.Readers + "阅读量)";
             }
         }
 
@@ -167,15 +166,6 @@ namespace Novel_Read
             new Index(book, User).ShowDialog();
         }
 
-        private void btn_backToHome_Click(object sender, EventArgs e)
-        {
-            if (post.LastId != null)
-            {
-                new ReadNovel(post.LastId, book, User).Show();
-            }
-            this.Close();
-        }
-
         private void btn_adBranch_Click(object sender, EventArgs e)
         {
             new SetPost(postId, User.UserId).ShowDialog();
@@ -195,16 +185,16 @@ namespace Novel_Read
             else if (totalNext == 1)
             {
                 post1 = Webservice.getPostById(post.NextId[initNumber % totalNext]);
-                link_branch1.Text = post1.Title + "(" + post1.Readers + "分支)";
+                link_branch1.Text = post1.Title + "(" + post1.Readers + "阅读量)";
                 link_branch2.Text = "暂无分支";
                 link_branch3.Text = "暂无分支";
             }
             else if (totalNext == 2)
             {
                 post1 = Webservice.getPostById(post.NextId[initNumber % totalNext]);
-                link_branch1.Text = post1.Title + "(" + post1.Readers + "分支)";
+                link_branch1.Text = post1.Title + "(" + post1.Readers + "阅读量)";
                 post2 = Webservice.getPostById(post.NextId[(initNumber + 1) % totalNext]);
-                link_branch2.Text = post2.Title + "(" + post2.Readers + "分支)";
+                link_branch2.Text = post2.Title + "(" + post2.Readers + "阅读量)";
                 link_branch3.Text = "暂无分支";
             }
             else
@@ -212,9 +202,9 @@ namespace Novel_Read
                 post1 = Webservice.getPostById(post.NextId[initNumber % totalNext]);
                 post2 = Webservice.getPostById(post.NextId[(initNumber + 1) % totalNext]);
                 post3 = Webservice.getPostById(post.NextId[(initNumber + 2) % totalNext]);
-                link_branch1.Text = post1.Title + "(" + post1.Readers + "分支)";
-                link_branch2.Text = post2.Title + "(" + post2.Readers + "分支)";
-                link_branch3.Text = post3.Title + "(" + post3.Readers + "分支)";
+                link_branch1.Text = post1.Title + "(" + post1.Readers + "阅读量)";
+                link_branch2.Text = post2.Title + "(" + post2.Readers + "阅读量)";
+                link_branch3.Text = post3.Title + "(" + post3.Readers + "阅读量)";
             }
         }
     }

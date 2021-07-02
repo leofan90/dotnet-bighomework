@@ -45,7 +45,7 @@ namespace Novel_Read
             this.Title.Font = new System.Drawing.Font("楷体", 15F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.Title.Location = new System.Drawing.Point(181, 13);
             this.Title.Name = "Title";
-            this.Title.Size = new System.Drawing.Size(285, 39);
+            this.Title.Size = new System.Drawing.Size(290, 39);
             this.Title.TabIndex = 0;
             this.Title.Text = "标题";
             this.Title.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -94,9 +94,9 @@ namespace Novel_Read
             // button2
             // 
             this.button2.Font = new System.Drawing.Font("楷体", 15F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.button2.Location = new System.Drawing.Point(512, 13);
+            this.button2.Location = new System.Drawing.Point(477, 13);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(66, 39);
+            this.button2.Size = new System.Drawing.Size(101, 39);
             this.button2.TabIndex = 6;
             this.button2.Text = "收藏";
             this.button2.UseVisualStyleBackColor = true;

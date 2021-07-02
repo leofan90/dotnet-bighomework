@@ -1,0 +1,122 @@
+C:\Users\ZGJ\Desktop\Novel_Read\obj\Debug\Novel_Read.BookForm.resources
+C:\Users\ZGJ\Desktop\Novel_Read\obj\Debug\Novel_Read.MainMenu.resources
+C:\Users\ZGJ\Desktop\Novel_Read\obj\Debug\Novel_Read.Properties.Resources.resources
+C:\Users\ZGJ\Desktop\Novel_Read\obj\Debug\Novel_Read.shelf.resources
+C:\Users\ZGJ\Desktop\Novel_Read\obj\Debug\Novel_Read.csproj.GenerateResource.cache
+C:\Users\ZGJ\Desktop\Novel_Read\obj\Debug\Novel_Read.csproj.CoreCompileInputs.cache
+C:\Users\ZGJ\Desktop\Novel_Read\bin\Debug\Novel_Read.exe.config
+C:\Users\ZGJ\Desktop\Novel_Read\bin\Debug\Novel_Read.exe
+C:\Users\ZGJ\Desktop\Novel_Read\bin\Debug\Novel_Read.pdb
+C:\Users\ZGJ\Desktop\Novel_Read\bin\Debug\EntityFramework.dll
+C:\Users\ZGJ\Desktop\Novel_Read\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ZGJ\Desktop\Novel_Read\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ZGJ\Desktop\Novel_Read\bin\Debug\EntityFramework.xml
+C:\Users\ZGJ\Desktop\Novel_Read\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ZGJ\Desktop\Novel_Read\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ZGJ\Desktop\Novel_Read\obj\Debug\Novel_Read.csproj.CopyComplete
+C:\Users\ZGJ\Desktop\Novel_Read\obj\Debug\Novel_Read.exe
+C:\Users\ZGJ\Desktop\Novel_Read\obj\Debug\Novel_Read.pdb
+C:\Users\ZGJ\Desktop\Novel_Read\obj\Debug\Novel_Read.SetNovel.resources
+C:\Users\ZGJ\Desktop\Novel_Read\obj\Debug\Novel_Read.SetPost.resources
+C:\Users\ZGJ\Desktop\Novel_Read\obj\Debug\Novel_Read.UserLogin.resources
+C:\Users\ZGJ\Desktop\Novel_Read\obj\Debug\Novel_Read.UserRegistration.resources
+C:\Users\ZGJ\Desktop\Novel_Read\obj\Debug\Novel_Read.ReadNovel.resources
+C:\Users\ZGJ\Desktop\Novel_Read\obj\Debug\Novel_Read.Index.resources
+C:\Users\ZGJ\Desktop\Novel_Read\obj\Debug\Novel_Read.csprojAssemblyReference.cache
+C:\visual studio\Novel_Read\Novel_Read\bin\Debug\Novel_Read.exe.config
+C:\visual studio\Novel_Read\Novel_Read\bin\Debug\Novel_Read.exe
+C:\visual studio\Novel_Read\Novel_Read\bin\Debug\Novel_Read.pdb
+C:\visual studio\Novel_Read\Novel_Read\bin\Debug\EntityFramework.dll
+C:\visual studio\Novel_Read\Novel_Read\bin\Debug\EntityFramework.SqlServer.dll
+C:\visual studio\Novel_Read\Novel_Read\bin\Debug\Newtonsoft.Json.dll
+C:\visual studio\Novel_Read\Novel_Read\bin\Debug\EntityFramework.xml
+C:\visual studio\Novel_Read\Novel_Read\bin\Debug\EntityFramework.SqlServer.xml
+C:\visual studio\Novel_Read\Novel_Read\bin\Debug\Newtonsoft.Json.xml
+C:\visual studio\Novel_Read\Novel_Read\obj\Debug\Novel_Read.csprojAssemblyReference.cache
+C:\visual studio\Novel_Read\Novel_Read\obj\Debug\Novel_Read.BookForm.resources
+C:\visual studio\Novel_Read\Novel_Read\obj\Debug\Novel_Read.Index.resources
+C:\visual studio\Novel_Read\Novel_Read\obj\Debug\Novel_Read.MainMenu.resources
+C:\visual studio\Novel_Read\Novel_Read\obj\Debug\Novel_Read.Properties.Resources.resources
+C:\visual studio\Novel_Read\Novel_Read\obj\Debug\Novel_Read.ReadNovel.resources
+C:\visual studio\Novel_Read\Novel_Read\obj\Debug\Novel_Read.SetNovel.resources
+C:\visual studio\Novel_Read\Novel_Read\obj\Debug\Novel_Read.SetPost.resources
+C:\visual studio\Novel_Read\Novel_Read\obj\Debug\Novel_Read.Shelf.resources
+C:\visual studio\Novel_Read\Novel_Read\obj\Debug\Novel_Read.UserLogin.resources
+C:\visual studio\Novel_Read\Novel_Read\obj\Debug\Novel_Read.UserRegistration.resources
+C:\visual studio\Novel_Read\Novel_Read\obj\Debug\Novel_Read.csproj.GenerateResource.cache
+C:\visual studio\Novel_Read\Novel_Read\obj\Debug\Novel_Read.csproj.CopyComplete
+C:\visual studio\Novel_Read\Novel_Read\obj\Debug\Novel_Read.exe
+C:\visual studio\Novel_Read\Novel_Read\obj\Debug\Novel_Read.pdb
+C:\Users\aa\Desktop\cshw\Novel_Read\Novel_Read\bin\Debug\Novel_Read.exe.config
+C:\Users\aa\Desktop\cshw\Novel_Read\Novel_Read\bin\Debug\Novel_Read.exe
+C:\Users\aa\Desktop\cshw\Novel_Read\Novel_Read\bin\Debug\Novel_Read.pdb
+C:\Users\aa\Desktop\cshw\Novel_Read\Novel_Read\bin\Debug\EntityFramework.dll
+C:\Users\aa\Desktop\cshw\Novel_Read\Novel_Read\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\aa\Desktop\cshw\Novel_Read\Novel_Read\bin\Debug\Newtonsoft.Json.dll
+C:\Users\aa\Desktop\cshw\Novel_Read\Novel_Read\bin\Debug\EntityFramework.xml
+C:\Users\aa\Desktop\cshw\Novel_Read\Novel_Read\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\aa\Desktop\cshw\Novel_Read\Novel_Read\bin\Debug\Newtonsoft.Json.xml
+C:\Users\aa\Desktop\cshw\Novel_Read\Novel_Read\obj\Debug\Novel_Read.csprojAssemblyReference.cache
+C:\Users\aa\Desktop\cshw\Novel_Read\Novel_Read\obj\Debug\Novel_Read.BookForm.resources
+C:\Users\aa\Desktop\cshw\Novel_Read\Novel_Read\obj\Debug\Novel_Read.Index.resources
+C:\Users\aa\Desktop\cshw\Novel_Read\Novel_Read\obj\Debug\Novel_Read.MainMenu.resources
+C:\Users\aa\Desktop\cshw\Novel_Read\Novel_Read\obj\Debug\Novel_Read.Properties.Resources.resources
+C:\Users\aa\Desktop\cshw\Novel_Read\Novel_Read\obj\Debug\Novel_Read.ReadNovel.resources
+C:\Users\aa\Desktop\cshw\Novel_Read\Novel_Read\obj\Debug\Novel_Read.SetNovel.resources
+C:\Users\aa\Desktop\cshw\Novel_Read\Novel_Read\obj\Debug\Novel_Read.SetPost.resources
+C:\Users\aa\Desktop\cshw\Novel_Read\Novel_Read\obj\Debug\Novel_Read.Shelf.resources
+C:\Users\aa\Desktop\cshw\Novel_Read\Novel_Read\obj\Debug\Novel_Read.UserLogin.resources
+C:\Users\aa\Desktop\cshw\Novel_Read\Novel_Read\obj\Debug\Novel_Read.UserRegistration.resources
+C:\Users\aa\Desktop\cshw\Novel_Read\Novel_Read\obj\Debug\Novel_Read.csproj.GenerateResource.cache
+C:\Users\aa\Desktop\cshw\Novel_Read\Novel_Read\obj\Debug\Novel_Read.csproj.CoreCompileInputs.cache
+C:\Users\aa\Desktop\cshw\Novel_Read\Novel_Read\obj\Debug\Novel_Read.csproj.CopyComplete
+C:\Users\aa\Desktop\cshw\Novel_Read\Novel_Read\obj\Debug\Novel_Read.exe
+C:\Users\aa\Desktop\cshw\Novel_Read\Novel_Read\obj\Debug\Novel_Read.pdb
+C:\Users\apple\Desktop\Novel_Read\Novel_Read\Novel_Read\bin\Debug\Novel_Read.exe.config
+C:\Users\apple\Desktop\Novel_Read\Novel_Read\Novel_Read\bin\Debug\Novel_Read.exe
+C:\Users\apple\Desktop\Novel_Read\Novel_Read\Novel_Read\bin\Debug\Novel_Read.pdb
+C:\Users\apple\Desktop\Novel_Read\Novel_Read\Novel_Read\bin\Debug\EntityFramework.dll
+C:\Users\apple\Desktop\Novel_Read\Novel_Read\Novel_Read\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\apple\Desktop\Novel_Read\Novel_Read\Novel_Read\bin\Debug\Newtonsoft.Json.dll
+C:\Users\apple\Desktop\Novel_Read\Novel_Read\Novel_Read\bin\Debug\EntityFramework.xml
+C:\Users\apple\Desktop\Novel_Read\Novel_Read\Novel_Read\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\apple\Desktop\Novel_Read\Novel_Read\Novel_Read\bin\Debug\Newtonsoft.Json.xml
+C:\Users\apple\Desktop\Novel_Read\Novel_Read\Novel_Read\obj\Debug\Novel_Read.csprojAssemblyReference.cache
+C:\Users\apple\Desktop\Novel_Read\Novel_Read\Novel_Read\obj\Debug\Novel_Read.BookForm.resources
+C:\Users\apple\Desktop\Novel_Read\Novel_Read\Novel_Read\obj\Debug\Novel_Read.Index.resources
+C:\Users\apple\Desktop\Novel_Read\Novel_Read\Novel_Read\obj\Debug\Novel_Read.MainMenu.resources
+C:\Users\apple\Desktop\Novel_Read\Novel_Read\Novel_Read\obj\Debug\Novel_Read.Properties.Resources.resources
+C:\Users\apple\Desktop\Novel_Read\Novel_Read\Novel_Read\obj\Debug\Novel_Read.ReadNovel.resources
+C:\Users\apple\Desktop\Novel_Read\Novel_Read\Novel_Read\obj\Debug\Novel_Read.SetNovel.resources
+C:\Users\apple\Desktop\Novel_Read\Novel_Read\Novel_Read\obj\Debug\Novel_Read.SetPost.resources
+C:\Users\apple\Desktop\Novel_Read\Novel_Read\Novel_Read\obj\Debug\Novel_Read.Shelf.resources
+C:\Users\apple\Desktop\Novel_Read\Novel_Read\Novel_Read\obj\Debug\Novel_Read.UserLogin.resources
+C:\Users\apple\Desktop\Novel_Read\Novel_Read\Novel_Read\obj\Debug\Novel_Read.UserRegistration.resources
+C:\Users\apple\Desktop\Novel_Read\Novel_Read\Novel_Read\obj\Debug\Novel_Read.csproj.GenerateResource.cache
+C:\Users\apple\Desktop\Novel_Read\Novel_Read\Novel_Read\obj\Debug\Novel_Read.csproj.CopyComplete
+C:\Users\apple\Desktop\Novel_Read\Novel_Read\Novel_Read\obj\Debug\Novel_Read.exe
+C:\Users\apple\Desktop\Novel_Read\Novel_Read\Novel_Read\obj\Debug\Novel_Read.pdb
+C:\visual studio\Novel_Read\Novel_Read\Novel_Read\bin\Debug\Novel_Read.exe.config
+C:\visual studio\Novel_Read\Novel_Read\Novel_Read\bin\Debug\Novel_Read.exe
+C:\visual studio\Novel_Read\Novel_Read\Novel_Read\bin\Debug\Novel_Read.pdb
+C:\visual studio\Novel_Read\Novel_Read\Novel_Read\bin\Debug\EntityFramework.dll
+C:\visual studio\Novel_Read\Novel_Read\Novel_Read\bin\Debug\EntityFramework.SqlServer.dll
+C:\visual studio\Novel_Read\Novel_Read\Novel_Read\bin\Debug\Newtonsoft.Json.dll
+C:\visual studio\Novel_Read\Novel_Read\Novel_Read\bin\Debug\EntityFramework.xml
+C:\visual studio\Novel_Read\Novel_Read\Novel_Read\bin\Debug\EntityFramework.SqlServer.xml
+C:\visual studio\Novel_Read\Novel_Read\Novel_Read\bin\Debug\Newtonsoft.Json.xml
+C:\visual studio\Novel_Read\Novel_Read\Novel_Read\obj\Debug\Novel_Read.csprojAssemblyReference.cache
+C:\visual studio\Novel_Read\Novel_Read\Novel_Read\obj\Debug\Novel_Read.BookForm.resources
+C:\visual studio\Novel_Read\Novel_Read\Novel_Read\obj\Debug\Novel_Read.Index.resources
+C:\visual studio\Novel_Read\Novel_Read\Novel_Read\obj\Debug\Novel_Read.MainMenu.resources
+C:\visual studio\Novel_Read\Novel_Read\Novel_Read\obj\Debug\Novel_Read.Properties.Resources.resources
+C:\visual studio\Novel_Read\Novel_Read\Novel_Read\obj\Debug\Novel_Read.ReadNovel.resources
+C:\visual studio\Novel_Read\Novel_Read\Novel_Read\obj\Debug\Novel_Read.SetNovel.resources
+C:\visual studio\Novel_Read\Novel_Read\Novel_Read\obj\Debug\Novel_Read.SetPost.resources
+C:\visual studio\Novel_Read\Novel_Read\Novel_Read\obj\Debug\Novel_Read.Shelf.resources
+C:\visual studio\Novel_Read\Novel_Read\Novel_Read\obj\Debug\Novel_Read.UserLogin.resources
+C:\visual studio\Novel_Read\Novel_Read\Novel_Read\obj\Debug\Novel_Read.UserRegistration.resources
+C:\visual studio\Novel_Read\Novel_Read\Novel_Read\obj\Debug\Novel_Read.csproj.GenerateResource.cache
+C:\visual studio\Novel_Read\Novel_Read\Novel_Read\obj\Debug\Novel_Read.csproj.CopyComplete
+C:\visual studio\Novel_Read\Novel_Read\Novel_Read\obj\Debug\Novel_Read.exe
+C:\visual studio\Novel_Read\Novel_Read\Novel_Read\obj\Debug\Novel_Read.pdb

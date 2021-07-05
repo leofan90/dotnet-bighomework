@@ -3,3 +3,13 @@
 CsharpBigHomework是服务器端
 
 Novel_Read是客户端
+
+范纯恺：Shelf页面的撰写、User的撰写、UserService的撰写、UserController的撰写、相关类和Controller的编写、WebService的撰写、MainMeun页面的修改、BookForm页面的修改
+
+张广杰：Post的撰写、UserLogin页面的撰写、UserRegistration页面的撰写、MainMenu页面的撰写、BookForm页面的撰写、BBSContext的修改、Controller的修改
+
+何宇昕：发送小说页面的撰写，发送分支页面的撰写，以及相关类方法的编写，登录与注册部分功能的编写
+
+郝宇辰：Post、PostService、PostController类的编写、Book类及相关类的编写、WebService类的编写，ReadNovel窗口、Index窗口的编写
+
+高益文：前期winform页面的编写和其他类的编写
